@@ -6,7 +6,7 @@ This repository contains research code and example data for:
 Jusheng Zhang, Kaitong Cai, Yijia Fan, Jian Wang, Keze Wang  
 NeurIPS 2025
 
-Paper: [arXiv:2506.17267](https://arxiv.org/abs/2506.17267)
+Paper: [NeurIPS 2025 Proceedings](https://proceedings.neurips.cc/paper_files/paper/2025/file/541b6d155146d142a5e10d787d1d430f-Paper-Conference.pdf)
 
 ## Overview
 
@@ -33,10 +33,10 @@ The scripts expect a local Qwen2.5-VL checkpoint. Update `model_path` in the scr
 ## Citation
 
 ```bibtex
-@article{zhang2025cfvlm,
+@inproceedings{zhang2025cfvlm,
   title={CF-VLM: CounterFactual Vision-Language Fine-tuning},
   author={Zhang, Jusheng and Cai, Kaitong and Fan, Yijia and Wang, Jian and Wang, Keze},
-  journal={arXiv preprint arXiv:2506.17267},
+  booktitle={Advances in Neural Information Processing Systems},
   year={2025}
 }
 ```
