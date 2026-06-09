@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+peft
+qwen-vl-utils
+pillow
+together
+openai
+clip
