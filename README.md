@@ -20,7 +20,6 @@ CF-VLM improves the causal reasoning ability of vision-language models by fine-t
 - `QWEN2.5.py`: Qwen2.5-VL based counterfactual data generation and fine-tuning script.
 - `clip_best.py`: CLIP-based scoring/selection utility.
 - `data/`: small example counterfactual samples.
-- `More detailed supplement.pdf`: supplementary material.
 
 ## Installation
 
